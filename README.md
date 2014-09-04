@@ -62,7 +62,7 @@ A jquery plugin which allows us to quickly check if an element is within the bro
 
 The last carousel you'll ever need.
 
-# [touchMobile]
+# touchMobile
 
 Adding some mobile swipe to Bootstrap Carousel
 
