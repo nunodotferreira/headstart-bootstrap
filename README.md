@@ -6,6 +6,8 @@ This repo contains the default files used to scaffold your [Headstart website](h
 
 ##Plus+ Inside this repo!
 
+# BAT files to work with Windows (ignore for OSX and Linux)
+
 # [BrowserBlast] (https://github.com/markgoodyear/browserblast)
 
 BrowserBlast is a lightweight and fully customisable script to display a warning for users of IE7 and below to let them know their browser isn’t supported anymore.
