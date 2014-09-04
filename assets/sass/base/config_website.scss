@@ -1,0 +1,56 @@
+// Accent colors --------------------------------------------------------------
+
+
+
+// Greys ----------------------------------------------------------------------
+
+//$white: #FFF;
+//$black: #000;
+
+// Reporting ------------------------------------------------------------------
+//
+// Using in the Reporting module (module/_reporting.scss)
+
+//$reporting-text: #333333;
+
+//$reporting-success: #A2D69A; 
+//$reporting-success-light: #DEF1DD;
+//$reporting-error: #F39B88;
+//$reporting-error-light: #FADCD7;
+//$reporting-warning: #F7E287;
+//$reporting-warning-light: #FCF5D6;
+//$reporting-info: #90B1D2;
+//$reporting-info-light: #DAE5F0; 
+
+// Font-stack -----------------------------------------------------------------
+//
+// Helvetica Neue is nice to have
+// Helvetica is the aimed-for default
+// Verdana is available on iOS, WP and BlackBerry
+// Roboto should be available on Android
+// Fall back to any sans-serif
+//
+// http://www.jordanm.co.uk/tinytype
+
+//@import url(http://fonts.googleapis.com/css?family=Roboto:400,400italic,700,700italic);
+
+$font-stack: Helvetica Neue, Helvetica, Verdana, Roboto, sans-serif;
+//$font-stack:  Roboto;
+
+// Website Params
+
+/*SASS*/
+$base-color: #000000;
+
+
+/*MIXINS*/
+@mixin sombra-esquerda-direita() {
+	box-shadow: 2px 0px 5px 1px rgba(0, 0, 0, 0.2), -2px 0px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+/*BREAK POINTS*/
+$small-view:480px;
+$mid-view:641px;
+$medium-view:767px;
+$normal-view:991px;
+$large-view:1199px;

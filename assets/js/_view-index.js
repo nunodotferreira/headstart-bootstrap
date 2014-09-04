@@ -9,15 +9,37 @@
 
 // Document -------------------------------------------------------------------
 
-// When using jQuery, use
-$(document).ready(function () {
+	// VARS -------------------------------------------------------------------
+	
+	/*var $window = $(window);
+	var mywindow = $(window);
+	var mypos = mywindow.scrollTop();
+	var widthWd=$(window).width();
+	var heightWd=$(window).height();
+	var scrollTopWd=$(window).scrollTop();*/
 
-//$.domReady(function () {
+	
+// JQUERY LOAD -------------------------------------------------------------------
 
-	log('## Index script ready');
+jQuery(window).load(function() {
+	
+		
+});
+
+// JQUERY RESIZE -------------------------------------------------------------------
+
+jQuery(window).on('resize orientationchange', function () {
+
+
+});
+
+// JQUERY READY -------------------------------------------------------------------
+
+jQuery(document).ready(function (jQuery) {
+
+	//console.log('## Index script ready');
 
 	// VARS -------------------------------------------------------------------
-	//
 
 	var
 		$window = $(window),
@@ -27,8 +49,7 @@ $(document).ready(function () {
 	// ACTIONS ----------------------------------------------------------------
 	//
 
-	// $elem.on('something', doSomething);
-
+	
 	//
 	// FUNCTIONS --------------------------------------------------------------
 	//
