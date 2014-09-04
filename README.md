@@ -4,7 +4,7 @@ Powered with [SASS] (http://thesassway.com/)
 
 This repo contains the default files used to scaffold your [Headstart website](http://headstart.flovan.me).
 
-##Plus+
+##Plus+ Inside this repo!
 
 # [BrowserBlast] (https://github.com/markgoodyear/browserblast)
 
@@ -18,23 +18,31 @@ BrowserBlast is a lightweight and fully customisable script to display a warning
 Get the actual width/height of invisible DOM elements with jQuery.
 
 
-# [Holder - 2.0 - client side image placeholders] (http://imsky.co)
+# [Holder] (http://imsky.co)
 
-# [JAIL: jQuery Asynchronous Image Loader] (https://github.com/sebarmeli/JAIL)
+Client side image placeholders.
 
-# [Jasny Bootstrap v3.1.3] (http://jasny.github.io/bootstrap)
+
+# [JAIL] (https://github.com/sebarmeli/JAIL)
+
+jQuery Asynchronous Image Loader.
+
+
+# [Jasny Bootstrap] (http://jasny.github.io/bootstrap)
 
 The missing components for your favorite front-end framework.
+
 
 # [CookieCuttr] (https://github.com/weare2ndfloor/cookieCuttr/)
 
 A tailorable jQuery plugin to deal with the EU Cookie Law.
 
+
 # [jQuery Email Address Munging Plugin] (https://github.com/andrewrjones/jquery-email-address-munging-plugin)
 
 This is a simple plugin for jQuery that converts email addresses such as you [at] example [dot] com into clickable mailto links.
 
-# [jQuery ImageFit 1.0.0] (https://github.com/periplox/jquery.imagefit)
+# [jQuery ImageFit] (https://github.com/periplox/jquery.imagefit)
 
 A simple, lightweight plugin to make images fit anywhere and anyway.
 
@@ -58,7 +66,7 @@ A powerful, flexible jQuery plugin enabling you to easily create semantic, moder
 
 A jquery plugin which allows us to quickly check if an element is within the browsers visual viewport regardless of the window scroll position.
 
-# [slick] (https://github.com/kenwheeler/slick)
+# [Slick] (https://github.com/kenwheeler/slick)
 
 The last carousel you'll ever need.
 
